@@ -1,0 +1,18 @@
+#include "pch.h"
+#include <iostream>
+#include <windows.h>
+using namespace std;
+
+
+int main()
+{
+	
+		
+	
+		
+		system("shutdown -s");
+		cout << "hello " << endl;
+		Beep(900, 500);
+
+	
+}
